@@ -14,15 +14,9 @@ class UnderscoreGrailsPlugin {
 Simple plugin wrapper for useful Underscore.js library.
 '''
 
-	def documentation = 'http://grails.org/plugin/underscore'
-
-	// License: one of 'APACHE', 'GPL2', 'GPL3'
+	def documentation = 'https://github.com/stogi/grails-underscore'
 	def license = 'APACHE'
-
-	// Location of the plugin's issue tracker.
-//    def issueManagement = [ system: 'JIRA', url: 'http://jira.grails.org/browse/GPMYPLUGIN' ]
-
-	// Online location of the plugin's browseable source code.
-//    def scm = [ url: 'http://svn.codehaus.org/grails-plugins/' ]
+	def issueManagement = [system: 'GitHub', url: 'https://github.com/stogi/grails-underscore/issues']
+	def scm = [url: 'https://github.com/stogi/grails-underscore']
 
 }
