@@ -1,0 +1,10 @@
+*.iml
+.classpath
+.eclipse
+.idea
+.project
+.settings
+org.codehaus.groovy.eclipse.preferences.prefs
+out
+target
+target-eclipse
