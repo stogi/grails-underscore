@@ -1,4 +1,6 @@
 *.iml
+*.xml
+*.zip
 .classpath
 .eclipse
 .idea
@@ -8,3 +10,4 @@ org.codehaus.groovy.eclipse.preferences.prefs
 out
 target
 target-eclipse
+web-app/WEB-INF
