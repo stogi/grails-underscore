@@ -1,6 +1,6 @@
 class UnderscoreGrailsPlugin {
 
-	def version = '1.3.3'
+	def version = '1.4.0'
 	def grailsVersion = '2.1 > *'
 	def dependsOn = [:]
 	def pluginExcludes = [
