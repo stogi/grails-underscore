@@ -1,7 +1,7 @@
 class UnderscoreGrailsPlugin {
 
 	def version = '1.4.0'
-	def grailsVersion = '2.1 > *'
+	def grailsVersion = '2.0 > *'
 	def dependsOn = [:]
 	def pluginExcludes = [
 			'grails-app/views/error.gsp'
