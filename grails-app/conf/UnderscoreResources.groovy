@@ -1,4 +1,4 @@
-def version = '1.4.4'
+def version = '1.5.2'
 
 modules = {
 	'underscore' {

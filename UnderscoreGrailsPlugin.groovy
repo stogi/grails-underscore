@@ -1,6 +1,6 @@
 class UnderscoreGrailsPlugin {
 
-	def version = '1.4.4'
+	def version = '1.5.2'
 	def grailsVersion = '2.0 > *'
 	def title = 'Underscore Plugin'
 	def author = 'Michael Stogowski'
